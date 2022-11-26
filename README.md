@@ -31,7 +31,7 @@ utilizado el merge normal daría error o algún conflicto.
 **git reset HEAD~1**
 
 -¿Qué comando o comandos utilizaste en el paso 28?
-**git restore .**
+**git restore**
 
 -¿Qué comando o comandos utilizaste en el paso 29?
 **git branch -D title**
